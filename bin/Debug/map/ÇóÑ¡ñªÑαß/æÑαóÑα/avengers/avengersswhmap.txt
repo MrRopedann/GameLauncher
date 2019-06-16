@@ -1,0 +1,14 @@
+//ID	binded entity ID	incident type	entity placement location	entity placement direction	Target map name	Target map location	Activate Determinant Requirement	Name
+1	1	1	1700,300	-1	avengers	1300,10200	1	avengers to avengers Isle1
+2	2	1	1300,10200	-1	avengers	1700,300	1	avengers Isle1 to avengers
+3	3	1	1300,17800	-1	avengers	18600,15900	1	avengers Isle1 to avengers Isle2
+4	4	1	18600,15900	-1	avengers	1300,17800	1	avengers Isle2 to avengers Isle1
+5	5	1	1900,8500	-1	avengers	9000,9000	1	avengers Isle2 to avengers Isle1
+6	6	1	5300,14400	-1	avengers	9000,9000	1	avengers Isle2 to avengers Isle1
+7	7	1	11200,17200	-1	avengers	9000,9000	1	avengers Isle2 to avengers Isle1
+8	8	1	18200,1400	-1	avengers	9000,9000	1	avengers Isle2 to avengers Isle1
+9	9	1	12300,18100	-1	avengers	9000,9000	1	avengers Isle2 to avengers Isle1
+10	10	1	9900,2900	-1	avengers	9000,9000	1	avengers Isle2 to avengers Isle1
+11	11	1	13800,4400	-1	avengers	9000,9000	1	avengers Isle2 to avengers Isle1
+12	12	1	4400,12500	-1	avengers	9000,9000	1	avengers Isle2 to avengers Isle1
+13	13	1	9200,11400	-1	avengers	9000,9000	1	avengers Isle2 to avengers Isle1
